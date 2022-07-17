@@ -1,4 +1,7 @@
 # Human Aware Robot Navigation
+
+---
+### Overview
 This repository simulates a Freight robot (named as Gopher) in unity simulation, which autonomously navigates to a target location avoid both static and dynamic obstacles.
 
 

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<library path="lib/libplugin_custom_LP">
+    <class name ="gopher_navigation/LP_MPC" type ="custom_local_planners::LP_MPC" base_class_type= "nav_core::BaseLocalPlanner">
+            <description> Plugin for BaseLocalPlanner </description>
+    </class>
+</library>
